@@ -3,5 +3,5 @@ package stringsx
 import "fmt"
 
 func Hello()  {
-	fmt.Print("hello v2")
+	fmt.Print("hello v3")
 }
