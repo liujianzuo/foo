@@ -1,3 +1,3 @@
-module github.com/liujianzuo/foo/v3
+module github.com/liujianzuo/foo
 
 go 1.14
